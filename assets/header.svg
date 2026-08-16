@@ -1,0 +1,36 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="80" y1="30" x2="1120" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071827"/>
+      <stop offset="0.5" stop-color="#0A2638"/>
+      <stop offset="1" stop-color="#073642"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="350" y1="80" x2="870" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#7DD3FC" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <circle cx="1030" cy="50" r="170" fill="#0EA5E9" fill-opacity="0.08"/>
+  <circle cx="150" cy="300" r="210" fill="#14B8A6" fill-opacity="0.08"/>
+
+  <path d="M52 62H184L224 102H312" stroke="#38BDF8" stroke-opacity="0.38" stroke-width="2"/>
+  <circle cx="52" cy="62" r="5" fill="#38BDF8"/>
+  <circle cx="312" cy="102" r="5" fill="#2DD4BF"/>
+  <path d="M888 222H976L1016 182H1148" stroke="#2DD4BF" stroke-opacity="0.38" stroke-width="2"/>
+  <circle cx="888" cy="222" r="5" fill="#38BDF8"/>
+  <circle cx="1148" cy="182" r="5" fill="#2DD4BF"/>
+
+  <rect x="415" y="83" width="370" height="66" rx="33" fill="url(#accent)" fill-opacity="0.13" filter="url(#glow)"/>
+  <text x="600" y="139" text-anchor="middle" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="1">Marcelo Torres</text>
+  <text x="600" y="187" text-anchor="middle" fill="url(#accent)" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600" letter-spacing="4">FULL STACK DEVELOPER</text>
+  <text x="600" y="224" text-anchor="middle" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="1">Web products · Automation · Artificial Intelligence</text>
+</svg>
