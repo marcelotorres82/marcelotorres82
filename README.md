@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marcelotorres1982.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marcelotorres82.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-t-alves)
 [![E-mail](https://img.shields.io/badge/E--mail-24292F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelotorres1982@gmail.com)
 
